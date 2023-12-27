@@ -1,1 +1,1 @@
-Redirect furyio.org to fury.apache.org
+Redirect https://furyio.org to https://fury.apache.org
